@@ -28,13 +28,6 @@ This project demonstrates **classes, objects, methods, dictionaries, loops, and 
 - **Cart system**: Add an item to cart, view info  
 - **Buy ice cream** option with **bill calculation**  
 - Input **validation** for flavour and topping  
-- Friendly CLI interface  
+- Friendly CLI interface
 
----
-
-## 🛠 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/smart-ice-cream-shop.git
+- ---
