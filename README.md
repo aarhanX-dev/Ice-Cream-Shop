@@ -34,7 +34,7 @@ This project demonstrates **classes, objects, methods, dictionaries, loops, and 
 
 ## 🐍 How To Run?
 
-- Copy the git: https://github.com/AarhanX-dev/Ice Cream Shop.git
+- Copy the git: https://github.com/aarhanX-dev/Ice-Cream-Shop.git
 - Run the code: Copy the code, go to your editor and paste it and run the code!
 
 - ---
